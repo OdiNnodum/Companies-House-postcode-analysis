@@ -29,7 +29,7 @@ Exploratory visualisation of high-volume postcodes:  <br/>
 <img src="https://imgur.com/cWQ756x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Map visualisation on Tableau:  <br/>
+Map visualisation on Tableau using color-coding:  <br/>
 <img src="https://imgur.com/Wmi4EZv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
